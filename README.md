@@ -1,2 +1,2 @@
 # hello-world
-This is Deepesh's first repository
+This is Deepesh Khatri's first repository
